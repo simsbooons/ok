@@ -1,0 +1,342 @@
+[
+   {
+      "genero": "Masculino",
+      "cor": "#e9a385",
+      "pessoas": [
+         {
+            "nome": "Felix Jones",
+            "idade": "25",
+            "nascimento": "30/11/1997",
+            "altura": "6'0 || 183cm",
+            "peso": "",
+            "nacionalidade" "Inglês"
+            "imagem": "https://di.phncdn.com/pics/users/645/235/541/avatar1540915920/(m=eidYGCjadOf)(mh=ZlY63FqZLWnOiqt3)200x200.jpg"
+         },
+         {
+            "nome": "Adele",
+            "idade": "33",
+            "nascimento": "5/05/1988",
+            "premios": [
+               "Grammy Award for Record of the Year",
+               "Brit Award for British Album of the Year"
+            ],
+            "imagem": "img_adele"
+         },
+         {
+            "nome": "Ed Sheeran",
+            "idade": "30",
+            "nascimento": "17/02/1991",
+            "premios": [
+               "Grammy Award for Song of the Year",
+               "Brit Award for British Male Solo Artist"
+            ],
+            "imagem": "img_ed"
+         },
+         {
+            "nome": "Rihanna",
+            "idade": "33",
+            "nascimento": "20/02/1988",
+            "premios": [
+               "Grammy Award for Best Rap/Sung Collaboration",
+               "MTV Video Music Award for Video of the Year"
+            ],
+            "imagem": "img_rihanna"
+         }
+      ]
+   },
+   {
+      "grupo": "ATORES",
+      "cor": "#6b456c",
+      "famosos": [
+         {
+            "nome": "Leonardo DiCaprio",
+            "idade": "47",
+            "nascimento": "11/11/1974",
+            "premios": [
+               "Academy Award for Best Actor",
+               "Golden Globe Award for Best Actor"
+            ],
+            "imagem": "img_leo"
+         },
+         {
+            "nome": "Meryl Streep",
+            "idade": "72",
+            "nascimento": "22/06/1951",
+            "premios": [
+               "Academy Award for Best Actress",
+               "Golden Globe Award for Best Actress"
+            ],
+            "imagem": "img_meryl"
+         },
+         {
+            "nome": "Tom Hanks",
+            "idade": "65",
+            "nascimento": "9/07/1956",
+            "premios": [
+               "Academy Award for Best Actor",
+               "Golden Globe Award for Best Actor"
+            ],
+            "imagem": "img_tom"
+         },
+         {
+            "nome": "Jennifer Lawrence",
+            "idade": "31",
+            "nascimento": "15/08/1990",
+            "premios": [
+               "Academy Award for Best Actress",
+               "Golden Globe Award for Best Actress"
+            ],
+            "imagem": "img_jennifer"
+         }
+      ]
+   },
+   {
+      "grupo": "ATLETAS",
+      "cor": "#14c3a2",
+      "famosos": [
+         {
+            "nome": "Usain Bolt",
+            "idade": "35",
+            "nascimento": "21/08/1986",
+            "premios": [
+               "Olympic gold medals in 100m and 200m sprint"
+            ],
+            "imagem": "img_usain"
+         },
+         {
+            "nome": "Serena Williams",
+            "idade": "40",
+            "nascimento": "26/09/1981",
+            "premios": [
+               "Multiple Grand Slam singles titles"
+            ],
+            "imagem": "img_serena"
+         },
+         {
+            "nome": "Michael Phelps",
+            "idade": "36",
+            "nascimento": "30/06/1985",
+            "premios": [
+               "23 Olympic gold medals in swimming"
+            ],
+            "imagem": "img_phelps"
+         },
+         {
+            "nome": "Simone Biles",
+            "idade": "24",
+            "nascimento": "14/03/1997",
+            "premios": [
+               "Multiple Olympic gold medals in gymnastics"
+            ],
+            "imagem": "img_simone"
+         }
+      ]
+   },
+   {
+      "grupo": "MODELOS",
+      "cor": "#ebe7a7",
+      "famosos": [
+         {
+            "nome": "Gisele Bündchen",
+            "idade": "41",
+            "nascimento": "20/07/1980",
+            "premios": [
+               "Forbes' Highest-Paid Models List"
+            ],
+            "imagem": "img_gisele"
+         },
+         {
+            "nome": "Adriana Lima",
+            "idade": "40",
+            "nascimento": "12/06/1981",
+            "premios": [
+               "Victoria's Secret Angel"
+            ],
+            "imagem": "img_adriana"
+         },
+         {
+            "nome": "Cara Delevingne",
+            "idade": "29",
+            "nascimento": "12/08/1992",
+            "premios": [
+               "Model of the Year at the British Fashion Awards"
+            ],
+            "imagem": "img_cara"
+         },
+         {
+            "nome": "Kendall Jenner",
+            "idade": "25",
+            "nascimento": "03/11/1995",
+            "premios": [
+               "Forbes' Highest-Paid Models List"
+            ],
+            "imagem": "img_kendall"
+         }
+      ]
+   },
+   {
+      "grupo": "INFLUENCERS",
+      "cor": "#6e9a81",
+      "famosos": [
+         {
+            "nome": "Kim Kardashian",
+            "idade": "41",
+            "nascimento": "21/10/1981",
+            "premios": [
+               "Influencer of the Year Award"
+            ],
+            "imagem": "img_kim"
+         },
+         {
+            "nome": "PewDiePie",
+            "idade": "32",
+            "nascimento": "24/10/1989",
+            "premios": [
+               "YouTube Creator of the Year"
+            ],
+            "imagem": "img_pewdiepie"
+         },
+         {
+            "nome": "Huda Kattan",
+            "idade": "38",
+            "nascimento": "02/10/1983",
+            "premios": [],
+            "imagem": "img_huda"
+         },
+         {
+            "nome": "Gary Vaynerchuk",
+            "idade": "45",
+            "nascimento": "14/11/1975",
+            "premios": [
+               "Social Media Guru Award"
+            ],
+            "imagem": "img_gary"
+         }
+      ]
+   },
+   {
+      "grupo": "ATORESMIRINS",
+      "cor": "#fff9de",
+      "famosos": [
+         {
+            "nome": "Millie Bobby Brown",
+            "idade": "18",
+            "nascimento": "19/02/2004",
+            "premios": [
+               "MTV Movie & TV Awards - Best Actor in a Show"
+            ],
+            "imagem": "img_millie"
+         },
+         {
+            "nome": "Finn Wolfhard",
+            "idade": "19",
+            "nascimento": "23/12/2002",
+            "premios": [],
+            "imagem": "img_finn"
+         },
+         {
+            "nome": "Stranger Things Cast",
+            "idade": "Varia",
+            "nascimento": "Diversos",
+            "premios": [
+               "Screen Actors Guild Awards - Outstanding Performance by an Ensemble in a Drama Series"
+            ],
+            "imagem": "img_stranger_things"
+         },
+         {
+            "nome": "Chloe Grace Moretz",
+            "idade": "25",
+            "nascimento": "10/02/1997",
+            "premios": [
+               "Young Hollywood Award - Breakthrough Actress"
+            ],
+            "imagem": "img_chloe"
+         }
+      ]
+   },
+   {
+      "grupo": "YOUTUBERS",
+      "cor": "#fb9c5a",
+      "famosos": [
+         {
+            "nome": "PewDiePie",
+            "idade": "32",
+            "nascimento": "24/10/1989",
+            "premios": [
+               "YouTube Creator of the Year",
+               "Diamond Play Button Award"
+            ],
+            "imagem": "img_pewdiepie"
+         },
+         {
+            "nome": "Ninja",
+            "idade": "30",
+            "nascimento": "05/06/1991",
+            "premios": [
+               "Esports Industry Awards - Streamer of the Year"
+            ],
+            "imagem": "img_ninja"
+         },
+         {
+            "nome": "Liza Koshy",
+            "idade": "26",
+            "nascimento": "31/03/1996",
+            "premios": [
+               "Streamy Awards - Creator of the Year"
+            ],
+            "imagem": "img_liza"
+         },
+         {
+            "nome": "MKBHD (Marques Brownlee)",
+            "idade": "28",
+            "nascimento": "03/12/1993",
+            "premios": [
+               "Shorty Awards - Tech and Innovation"
+            ],
+            "imagem": "img_mkbhd"
+         }
+      ]
+   },
+   {
+      "grupo": "STREAMERS",
+      "cor": "#79ae92",
+      "famosos": [
+         {
+            "nome": "Ninja",
+            "idade": "30",
+            "nascimento": "05/06/1991",
+            "premios": [
+               "Esports Industry Awards - Streamer of the Year"
+            ],
+            "imagem": "img_ninja"
+         },
+         {
+            "nome": "Pokimane",
+            "idade": "26",
+            "nascimento": "14/05/1996",
+            "premios": [
+               "Streamy Awards - Gaming Creator of the Year"
+            ],
+            "imagem": "img_pokimane"
+         },
+         {
+            "nome": "xQcOW (Félix Lengyel)",
+            "idade": "26",
+            "nascimento": "12/11/1995",
+            "premios": [
+               "The Game Awards - Content Creator of the Year"
+            ],
+            "imagem": "img_xqc"
+         },
+         {
+            "nome": "Valkyrae",
+            "idade": "29",
+            "nascimento": "08/01/1992",
+            "premios": [
+               "The Game Awards - Content Creator of the Year"
+            ],
+            "imagem": "img_valkyrae"
+         }
+      ]
+   }
+]
